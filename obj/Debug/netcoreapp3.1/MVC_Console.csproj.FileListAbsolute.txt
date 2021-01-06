@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+D:\Escolar\SENAI\Programações\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+D:\Escolar\SENAI\Programações\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
