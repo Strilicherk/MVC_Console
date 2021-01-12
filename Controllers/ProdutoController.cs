@@ -6,7 +6,7 @@ namespace MVC_Console.Controllers
 {
     public class ProdutoController
     {
-        //Models
+       //Models
         Produto produto = new Produto();
 
         //Views
@@ -16,7 +16,11 @@ namespace MVC_Console.Controllers
         {
 
             produtoView.Listar(produto.Ler());
-            
+        }
+
+        public void Cadastrar()
+        {
+            produto.Inserir(produtoView.CadastrarProduto());
         }
     }
 }
